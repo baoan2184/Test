@@ -15,6 +15,10 @@ dddddddddddddddddddddddd
 
 dddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwws
 
+<<<<<<< Updated upstream
 
 
 them dong nay
+=======
+Them dong 2
+>>>>>>> Stashed changes
